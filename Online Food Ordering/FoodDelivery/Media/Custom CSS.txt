@@ -1,0 +1,50 @@
+/*** Home Page Button Order Now ***/
+span#glfButton0 {
+    font-family: montserrat!important;
+    font-weight: 500!important;
+    text-transform: uppercase;
+    padding: 10px 16px 7px 16px!important;
+		border-width: 2px!important;
+    border-color: #2D52FF!important;
+    background-image: none;
+	box-shadow: 0 1px 0 #372dff;
+}
+
+.gloriafood-button, .glf-button {
+    font-family: montserrat!important;
+    font-weight: 500!important;
+    text-transform: uppercase;
+    padding: 10px 16px 7px 16px!important;
+		border-width: 2px!important;
+    border-color: #2D52FF!important;
+    background-image: none!important;
+	box-shadow: 0 1px 0 #372dff!important;	
+}
+
+/*** Home Page Button Book a Table ***/
+span#glfButton4,
+span#glfButton0,
+span#glfButton8,
+glf-button-default glf-button reservation
+{
+    border-radius: 50px!important;
+    background-color: #372dff!important;
+    padding: 10px 30px!important;
+}
+
+
+/*** Menu Order Button ***/
+.sf-menu li.menu-item span#glfButton0 {
+    color: #fff!important;
+    border-radius: 0!important;
+    background: orange!important;
+    box-shadow: none!important;
+    padding: 10px!important;
+    font-size: 16px!important;
+}
+
+/*** Mobile Menu ***/
+li.sidr-class-menu-btn {
+	padding: 12px 20px;
+}
+
